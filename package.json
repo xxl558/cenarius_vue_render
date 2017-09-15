@@ -1,0 +1,19 @@
+{
+  "name": "cenarius_vue_render",
+  "version": "1.0.0",
+  "description": "weex组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxl558/cenarius_vue_render.git"
+  },
+  "author": "xxl_558",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxl558/cenarius_vue_render/issues"
+  },
+  "homepage": "https://github.com/xxl558/cenarius_vue_render#readme"
+}
